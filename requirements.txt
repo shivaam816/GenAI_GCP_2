@@ -1,0 +1,5 @@
+pandas==2.2.2
+langchain==0.2.11
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0.post1
+chromadb==0.5.5
